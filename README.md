@@ -16,9 +16,9 @@ A fully functional **News App** built with **Jetpack Compose** and modern Androi
 
 # 📸 Screenshots
 
-| Home Screen                    | Article Detail Screen            |
-|-------------------------------|----------------------------------|
-| <img src="./readme-assets/news_home.png" width="250"/> | <img src="[./readme-assets/news_detail.png](https://github.com/Deepak-4551819/NewsRoom/blob/master/app/src/main/java/com/deep455/newsroom/presentation/component/Article_Screen.jpg?raw=true)" width="250"/> |
+| News Screen | Article Detail Screen | NewsArticle Card |
+|-------------|------------------------|------------------|
+| <img src="https://github.com/Deepak-4551819/NewsRoom/blob/master/app/src/main/java/com/deep455/newsroom/presentation/component/Article_Screen.jpg?raw=true" width="250"/> | <img src="https://github.com/Deepak-4551819/NewsRoom/blob/357547785d384038bf1f753e0b3b411d84a1171d/app/src/main/java/com/deep455/newsroom/presentation/component/Article_Screen.jpg" width="250"/> | <img src="https://github.com/Deepak-4551819/NewsRoom/blob/master/app/src/main/java/com/deep455/newsroom/presentation/component/NewArticleCard.jpg?" width="250"/> |
 
 ---
 
@@ -37,7 +37,7 @@ A fully functional **News App** built with **Jetpack Compose** and modern Androi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/NewsRoom.git
+   git clone https://github.com/Deepak-4551819/NewsRoom.git
    ```
 2. Get a free API key from [NewsAPI.org](https://newsapi.org/).
 3. Add your API key in `local.properties` or build config.
@@ -49,7 +49,7 @@ A fully functional **News App** built with **Jetpack Compose** and modern Androi
 
 Want to try the app? Download the latest APK from the link below:
 
-👉 [**Download NewsRoom APK**](https://drive.google.com/file/d/your-file-id/view?usp=sharing)
+👉 [**Download NewsRoom APK**](https://drive.google.com/file/d/1FwIycHeZSbGDzMypydC3Mzfp3Q7egbfg/view?usp=drive_link)
 
 > ⚠️ Make sure to allow installations from unknown sources on your device.
 
