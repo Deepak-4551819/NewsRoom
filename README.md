@@ -18,7 +18,7 @@ A fully functional **News App** built with **Jetpack Compose** and modern Androi
 
 | Home Screen                    | Article Detail Screen            |
 |-------------------------------|----------------------------------|
-| <img src="./readme-assets/news_home.png" width="250"/> | <img src="./readme-assets/news_detail.png" width="250"/> |
+| <img src="./readme-assets/news_home.png" width="250"/> | <img src="[./readme-assets/news_detail.png](https://github.com/Deepak-4551819/NewsRoom/blob/master/app/src/main/java/com/deep455/newsroom/presentation/component/Article_Screen.jpg?raw=true)" width="250"/> |
 
 ---
 
